@@ -1,0 +1,6 @@
+[core]
+	editor = \"C:\\Users\\Ridha SHILI\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	pager = cat
+[user]
+	email = kooli_souheil@yahoo.fr
+	name = Souheil Kooli
